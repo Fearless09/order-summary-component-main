@@ -1,4 +1,6 @@
-# Frontend Mentor - Order summary card
+# Frontend Mentor Challenge, Coded by Fearless Tech. - Order summary card
+
+https://fearless09.github.io/order-summary-component-main/
 
 ![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
 
